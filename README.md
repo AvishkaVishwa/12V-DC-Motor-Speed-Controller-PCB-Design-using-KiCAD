@@ -63,9 +63,6 @@ PWM is a method of reducing the average power delivered by the motor by rapidly 
 
 ### Frequency Calculation:
 <img src="/Images/formula.png">
-\[
-f = \frac{1.44}{(R_1 + 2R_2) \cdot C_1}
-\]
 With **R1 = 1.2 kΩ**, **R2 = 3 kΩ**, and **C1 = 10 nF**, the calculated frequency is approximately **20 kHz**, which is suitable for motor speed control without causing audible noise.
 
 ## 8. Future Improvements
