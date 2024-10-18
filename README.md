@@ -10,6 +10,7 @@ This project is a **Pulse Width Modulation (PWM) based motor speed controller** 
 - **IRFZ44N MOSFET** (1x)
 - **12V DC Motor** (1x)
 - **Diode (1N4001)** (1x) – Flyback protection
+- **Diode (1N4148)** (2x)
 - **Capacitors**:
   - **C1** = 10nF (0.01 μF)
   - **C2** = 100 μF (for power supply decoupling)
