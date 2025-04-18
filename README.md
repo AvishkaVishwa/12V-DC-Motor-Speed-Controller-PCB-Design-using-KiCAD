@@ -61,6 +61,8 @@ PWM is a method of reducing the average power delivered by the motor by rapidly 
 3. Connect the other terminal of the motor to the 12V supply.
 4. Place the **1N4001 diode** across the motor terminals, with the **anode** connected to the motor's negative side and the **cathode** to the positive side (to protect against back EMF).
 
+### Here is the V.1  of the Speed Controller
+
 <img src="/Images/schematic of v.1.png">
 
 <img src="/Images/pcb.png">
@@ -86,9 +88,6 @@ This version includes a complete PCB design created in KiCAD:
 - Heat sink area for the MOSFET
 - Clearly labeled connection points
 - Mounting holes at each corner (3mm diameter)
-
-<img src="/Images/PCB_Layout.png">
-<img src="/Images/3D_View.png">
 
 ### Manufacturing Notes:
 - FR4 material, 1.6mm thickness
