@@ -18,7 +18,7 @@ This project presents a compact, low-cost, and efficient <strong style="color: #
 
 <h2 style="color: #0078D4; border-bottom: 1px solid #ccc; padding-bottom: 5px;">📘 Schematic Overview</h2>
 
-![Schematic](https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Schematic.png)
+![Schematic]<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/38a573ddb1caaeeb17b8dee4f00e829e0c8dc042/Images/schematic%20of%20v.1.png">
 
 <h3 style="color: #0078D4;">🧩 Key Components</h3>
 
