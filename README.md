@@ -87,6 +87,10 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/38a573ddb1caaeeb17b8dee4f00e829e0c8dc042/Images/PWM.png">
 
+## The prototype Design 
+
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/prototype.jpg">
+
 ### Example:
 
 * R1 = 10kΩ, R2 = 1kΩ, C2 = 0.1μF, x = 0.5
@@ -100,7 +104,6 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/good1.jpg">
 
-<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb2.jpg">
 
 ## 🚀 PWM Motor Speed Control Example
 
