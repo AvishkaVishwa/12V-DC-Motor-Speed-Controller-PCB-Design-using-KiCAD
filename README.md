@@ -18,7 +18,7 @@ This project presents a compact, low-cost, and efficient **Pulse Width Modulatio
 
 ## 📘 Schematic Overview
 
-![Schematic](https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/38a573ddb1caaeeb17b8dee4f00e829e0c8dc042/Images/schematic%20of%20v.1.png)
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/38a573ddb1caaeeb17b8dee4f00e829e0c8dc042/Images/schematic%20of%20v.1.png">
 
 ### 🧹 Key Components
 
