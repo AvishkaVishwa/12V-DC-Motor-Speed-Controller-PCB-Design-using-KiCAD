@@ -60,7 +60,9 @@ This circuit controls motor speed by varying the <strong style="color: #C85000;"
 
 ---
 
-<h3 style="color: #0078D4; display: inline-block; cursor: pointer;">🔣 Timing Equations (Astable Mode with Diodes) (Click to expand)</h3>
+<img src =https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/89de0b19c3f85db7e9916e4e47b69ec1f34a44a4/Images/pcb.png>
+
+<h3 style="color: #0078D4; display: inline-block; cursor: pointer;">🔣 Timing Equations (Astable Mode with Diodes) </h3>
 
 The use of diodes D1 and D2 slightly modifies the standard NE555 astable equations. Assuming R1 is the total potentiometer resistance (e.g., 10kΩ) and 'x' is the fraction of R1 set by the wiper (0 to 1):
 
@@ -96,8 +98,9 @@ The use of diodes D1 and D2 slightly modifies the standard NE555 astable equatio
 </details>
 
 ---
+<img src =https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/89de0b19c3f85db7e9916e4e47b69ec1f34a44a4/Images/pcb.png>
 
-<h2 style="color: #0078D4; border-bottom: 1px solid #ccc; padding-bottom: 5px; display: inline-block; cursor: pointer;">🔁 PWM Motor Speed Control Example (Click to expand)</h2>
+<h2 style="color: #0078D4; border-bottom: 1px solid #ccc; padding-bottom: 5px; display: inline-block; cursor: pointer;">🔁 PWM Motor Speed Control Example </h2>
 
 Using component values from simulation or schematic:
 
