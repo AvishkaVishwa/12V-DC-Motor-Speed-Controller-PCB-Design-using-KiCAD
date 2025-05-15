@@ -59,6 +59,7 @@ This circuit controls motor speed by varying the **duty cycle** of a **Pulse Wid
 * SS14 flyback diode prevents damage from back EMF when motor turns off.
 
 ---
+### This is the reference design i got from Digikey..
 
 ![Digikey](https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/digikey.png)
 
@@ -84,6 +85,8 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/89de0b19c3f85db7e9916e4e47b69ec1f34a44a4/Images/pcb.png">
 
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/38a573ddb1caaeeb17b8dee4f00e829e0c8dc042/Images/PWM.png">
+
 ### Example:
 
 * R1 = 10kΩ, R2 = 1kΩ, C2 = 0.1μF, x = 0.5
@@ -93,6 +96,11 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 * Duty Cycle ≈ 54.5%
 
 ---
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb3.jpg">
+
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb1.jpg">
+
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb2.jpg">
 
 ## 🚀 PWM Motor Speed Control Example
 
