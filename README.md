@@ -80,6 +80,10 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 
 * `Duty Cycle = (T_H / T) × 100% = ((R2 + x × R1) / (R2 + R1)) × 100%`
 
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/a60ed7d202f6658b08ab2dba5da50be1771ef4e1/Images/DRC%20Check.png">
+
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/89de0b19c3f85db7e9916e4e47b69ec1f34a44a4/Images/pcb.png">
+
 ### Example:
 
 * R1 = 10kΩ, R2 = 1kΩ, C2 = 0.1μF, x = 0.5
@@ -129,7 +133,7 @@ If motor rated speed is 3000 RPM at 12V:
 
 <p align="center">
   <a href="https://www.pcbway.com/" target="_blank">
-    <img src="https://www.pcbway.com/project/img/images/logo.png" alt="PCBWay" width="200"/>
+    <img src="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/0191b6e02eeb30e176867d2a93ebec854536829a/Images/pcbwaylogo.jpg" alt="PCBWay" width="200"/>
   </a>
 </p>
 
