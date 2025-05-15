@@ -96,9 +96,9 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 * Duty Cycle ≈ 54.5%
 
 ---
-<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb3.jpg">
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/good2.jpg">
 
-<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb1.jpg">
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/good1.jpg">
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb2.jpg">
 
