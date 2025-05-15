@@ -83,9 +83,9 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/a60ed7d202f6658b08ab2dba5da50be1771ef4e1/Images/DRC%20Check.png">
 
-<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/89de0b19c3f85db7e9916e4e47b69ec1f34a44a4/Images/pcb.png">
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/47b6a0c708b5b3461951992ff5c4f204d4444add/Images/pcb.png">
 
-<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/38a573ddb1caaeeb17b8dee4f00e829e0c8dc042/Images/PWM.png">
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/47b6a0c708b5b3461951992ff5c4f204d4444add/Images/PWM.png">
 
 ## The prototype Design 
 
