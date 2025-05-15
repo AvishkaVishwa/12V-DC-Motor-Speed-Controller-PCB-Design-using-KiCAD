@@ -100,6 +100,8 @@ The use of diodes D1 and D2 slightly modifies the standard NE555 astable equatio
 ---
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/a60ed7d202f6658b08ab2dba5da50be1771ef4e1/Images/DRC%20Check.png">
 
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/38a573ddb1caaeeb17b8dee4f00e829e0c8dc042/Images/PWM.png">
+
 <h2 style="color: #0078D4; border-bottom: 1px solid #ccc; padding-bottom: 5px; display: inline-block; cursor: pointer;">🔁 PWM Motor Speed Control Example </h2>
 
 Using component values from simulation or schematic:
@@ -129,6 +131,9 @@ Then at **54.5% duty cycle**:
 
 
 ---
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb4.jpg">
+
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb4.jpg">
 
 <h2 style="color: #0078D4; border-bottom: 1px solid #ccc; padding-bottom: 5px;">⚠️ Suggestions for Improvement</h2>
 
