@@ -60,7 +60,7 @@ This circuit controls motor speed by varying the <strong style="color: #C85000;"
 
 ---
 
-<img src =https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/89de0b19c3f85db7e9916e4e47b69ec1f34a44a4/Images/pcb.png>
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/89de0b19c3f85db7e9916e4e47b69ec1f34a44a4/Images/pcb.png">
 
 <h3 style="color: #0078D4; display: inline-block; cursor: pointer;">🔣 Timing Equations (Astable Mode with Diodes) </h3>
 
@@ -98,7 +98,7 @@ The use of diodes D1 and D2 slightly modifies the standard NE555 astable equatio
 </details>
 
 ---
-<img src =https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/a60ed7d202f6658b08ab2dba5da50be1771ef4e1/Images/DRC%20Check.png>
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/a60ed7d202f6658b08ab2dba5da50be1771ef4e1/Images/DRC%20Check.png">
 
 <h2 style="color: #0078D4; border-bottom: 1px solid #ccc; padding-bottom: 5px; display: inline-block; cursor: pointer;">🔁 PWM Motor Speed Control Example </h2>
 
