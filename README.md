@@ -129,7 +129,7 @@ If motor rated speed is 3000 RPM at 12V:
 
 <h3>📽️ Demo Video</h3>
 
-<video src="https://github.com/user-attachments/assets/666c6b88-e5df-40ff-821a-c8015889799f" controls width="600">
+<video src="https://github.com/user-attachments/assets/200f2159-c2bb-4788-9b7a-272e7be00f0f" controls width="600">
   Your browser does not support the video tag.
 </video>
 
