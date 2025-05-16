@@ -104,17 +104,6 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/good1.jpg">
 
-
-## 🚀 PWM Motor Speed Control Example
-
-If motor rated speed is 3000 RPM at 12V:
-
-* At 54.5% duty cycle:
-
-`Estimated RPM = 3000 × 0.545 = 1635 RPM`
-
-*(Assumes speed is linear with average voltage)*
-
 ---
 
 <h3>📽️ Demo Video</h3>
