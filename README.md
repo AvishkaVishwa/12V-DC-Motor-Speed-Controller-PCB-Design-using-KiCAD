@@ -117,33 +117,11 @@ If motor rated speed is 3000 RPM at 12V:
 
 ---
 
-## ⚠️ Suggestions for Improvement
-
-* Use **IRLZ44N** for logic-level gate drive (if using 3.3V/5V control)
-* Add a **10kΩ pull-down** resistor to MOSFET Gate to ensure turn-off
-* Add **0.1μF decoupling capacitor** close to NE555 power pins
-* Use heatsink for MOSFET if motor current >2A
-* Add reverse polarity protection at input (e.g., diode or P-MOS)
-
----
-
 <h3>📽️ Demo Video</h3>
 
 <video src="https://github.com/user-attachments/assets/200f2159-c2bb-4788-9b7a-272e7be00f0f" controls width="600">
   Your browser does not support the video tag.
 </video>
-
-
-## 📂 Folder Structure
-
-```
-.
-├── Gerbers/               # Manufacturing files
-├── Images/                # Visuals and documentation
-├── KiCAD_Project/         # .pro, .sch, .kicad_pcb files
-├── README.md              # This file
-└── Schematic.png          # Circuit diagram image
-```
 
 ---
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb3.jpg">
