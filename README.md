@@ -113,7 +113,7 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 </video>
 
 ---
-<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb3.jpg">
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/697574aaf954a9b90b7c7e1e8453339839cefebb/Images/pcb3.jpg">
 
 ## 🎉 Special Thanks to PCBWay
 
