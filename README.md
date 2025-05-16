@@ -146,6 +146,7 @@ If motor rated speed is 3000 RPM at 12V:
 ```
 
 ---
+<img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/431bf6187bdd8b22bc1dd40ee791bf8278e135b9/Images/pcb3.jpg">
 
 ## 🎉 Special Thanks to PCBWay
 
