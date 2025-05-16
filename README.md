@@ -81,6 +81,14 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 
 * `Duty Cycle = (T_H / T) × 100% = ((R2 + x × R1) / (R2 + R1)) × 100%`
 
+* ### Example:
+
+* R1 = 10kΩ, R2 = 1kΩ, C2 = 0.1μF, x = 0.5
+* T\_H = 0.693 × 6kΩ × 0.1μF ≈ 0.4158 ms
+* T\_L = 0.693 × 5kΩ × 0.1μF ≈ 0.3465 ms
+* Total Period ≈ 0.7623 ms → Frequency ≈ 1312 Hz
+* Duty Cycle ≈ 54.5%
+
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/a60ed7d202f6658b08ab2dba5da50be1771ef4e1/Images/DRC%20Check.png">
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/47b6a0c708b5b3461951992ff5c4f204d4444add/Images/pcb.png">
@@ -90,14 +98,6 @@ Let R1 be a potentiometer (10kΩ), R2 = 1kΩ, and C2 = 0.1μF. Let `x` be the 
 ## The prototype Design 
 
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/prototype.jpg">
-
-### Example:
-
-* R1 = 10kΩ, R2 = 1kΩ, C2 = 0.1μF, x = 0.5
-* T\_H = 0.693 × 6kΩ × 0.1μF ≈ 0.4158 ms
-* T\_L = 0.693 × 5kΩ × 0.1μF ≈ 0.3465 ms
-* Total Period ≈ 0.7623 ms → Frequency ≈ 1312 Hz
-* Duty Cycle ≈ 54.5%
 
 ---
 <img src ="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/main/Images/good2.jpg">
